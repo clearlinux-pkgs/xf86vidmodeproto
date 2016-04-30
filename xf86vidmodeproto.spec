@@ -4,7 +4,7 @@
 #
 Name     : xf86vidmodeproto
 Version  : 2.3.1
-Release  : 7
+Release  : 8
 URL      : http://xorg.freedesktop.org/releases/individual/proto/xf86vidmodeproto-2.3.1.tar.bz2
 Source0  : http://xorg.freedesktop.org/releases/individual/proto/xf86vidmodeproto-2.3.1.tar.bz2
 Summary  : XF86VidMode extension headers
